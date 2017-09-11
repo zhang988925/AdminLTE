@@ -1,6 +1,6 @@
 {
   "name": "dh/adminlte",
-  "description": "AdminLTE - admin control panel and dashboard that's based on Bootstrap 3",
+  "description": "AdminLTE - 去除谷歌字体依赖",
   "homepage": "http://almsaeedstudio.com/",
   "keywords": [
     "css",
